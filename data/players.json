@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    },
+    {
+        "id": 1,
+        "first_name": "Player1",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    },
+    {
+        "id": 1,
+        "first_name": "Player2",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    },
+    {
+        "id": 1,
+        "first_name": "Player3",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    },
+    {
+        "id": 1,
+        "first_name": "Player4",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    },
+    {
+        "id": 1,
+        "first_name": "Player5",
+        "last_name": "Doe",
+        "birth_date": "01/01/1990",
+        "national_chess_id": ""
+    }
+]
